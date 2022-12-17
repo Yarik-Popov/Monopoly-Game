@@ -79,8 +79,6 @@ public class Card
 //	This method draws the image based on the type and chance or community.
 	public void drawImage()
 	{
-		System.out.println("drawImage()");
-		System.out.println(toString());
 		ImageIcon image = null;
 		
 		if(isChance)

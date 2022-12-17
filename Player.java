@@ -2,8 +2,6 @@ import java.util.ArrayList;
 import javax.swing.*;
 
 /**
- * Yarik Popov & Kirill Dariy <br>
- * ICS4U1, Mr. Naccarato <br>
  * Jan 22, 2022 <br>
  * This is the player class for the monopoly game. It is the main class of the program.
  */

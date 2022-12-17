@@ -4,8 +4,6 @@ import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
 
 /**
- * Yarik Popov & Kirill Dariy <br>
- * ICS4U1, Mr. Naccarato <br>
  * Jan 16, 2022 <br>
  * This class creates a window to take in the input for the number of players in the 
  * game. Then it creates the game and plays it. 

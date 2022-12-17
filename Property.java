@@ -4,8 +4,6 @@ import java.util.Scanner;
 
 import javax.swing.*;
 /**
- * Yarik Popov & Kirill Dariy <br>
- * ICS4U1, Mr. Naccarato <br>
  * Jan 22, 2022 <br>
  * This class holds the info related to a property and all the methods. When the 
  * constructor is called with a valid int parameter it creates a property parsing the 

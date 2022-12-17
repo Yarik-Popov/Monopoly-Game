@@ -1,8 +1,6 @@
 import javax.swing.*;
 
 /**
- * Yarik Popov & Kirill Dariy <br>
- * ICS4U1, Mr. Naccarato <br>
  * Jan 22, 2022 <br>
  * This class holds the info related to each tile in the game.
  */

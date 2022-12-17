@@ -5,8 +5,6 @@ import javax.sound.sampled.*;
 import javax.swing.*;
 
 /**
- * Yarik Popov & Kirill Dariy <br>
- * ICS4U1, Mr. Naccarato <br>
  * Jan 22, 2022 <br>
  * This is the game class. It holds the arraylist of players and tiles and variables of 
  * dice. This is the class where the users play monopoly inside of.

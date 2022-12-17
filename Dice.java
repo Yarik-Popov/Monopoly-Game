@@ -1,8 +1,6 @@
 import java.util.Random;
 import javax.swing.*;
 /**
- * Yarik Popov & Kirill Dariy <br>
- * ICS4U1, Mr. Naccarato <br>
  * Jan 20, 2022 <br>
  * This is the dice class used in the monopoly game. It is used as the randomizer
  * for moving the player on the board.

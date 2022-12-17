@@ -2,8 +2,6 @@ import java.util.Random;
 import javax.swing.*;
 
 /**
- * Yarik Popov & Kirill Dairy <br>
- * ICS4U1, Mr. Naccarato <br>
  * Jan 22, 2022 <br>
  * This is the Card class which handles the chance and community
  * cards in the game on monopoly.

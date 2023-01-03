@@ -1,5 +1,5 @@
 # Monopoly-Game
-A replica of the Monopoly game created by me and my friend for our grade 12 computer science course. This was our final project.
+A replica of the Monopoly game created by me and my friend (@KirillDariy) for our grade 12 computer science course. This was our final project.
 
 ## Features:
 - 2-4 players

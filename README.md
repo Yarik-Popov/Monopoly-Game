@@ -4,7 +4,7 @@ A replica of the Monopoly game created by me and my friend for our grade 12 comp
 ## Features:
 - 2-4 players
 - Buying and mortgaging of properties
-- Chance and Community cards
+- Chance and Community cards 
 - Jail
 - Dice
 - Display for players information
